@@ -15,6 +15,9 @@ Features
      edit index.html - update message 
      edit style.css - cuange layout, color, fonts
 
+     How to use:
+       click https://github.com/ramosmarichu/Teachers_card.git
+
 Use case:
      Greetings teachers digitally 
 
